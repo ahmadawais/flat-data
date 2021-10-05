@@ -1,1 +1,66 @@
-[{"date": "2021-10-01T00:00:00.000Z","twitterFollowers":17914,"twitterNewFollowersDailyAvg":199,"tweetsThisMonth":411,"twitterImpressionsToday":12413,"followersThisMonth":6116,"twitterImpressions":2570113,"twitterProfileVisits":155812,"twitterMentions":919,"youtubeDevsReached":930413,"youtubeHoursSpentWatching":28121,"guidesReadThisMonth":16175842,"predict30daysFollowers":23881,"predict60daysFollowers":29871}]
+[
+	{
+		"date": "2021-10-01T00:00:00.000Z",
+		"twitterFollowers": 16133,
+		"twitterNewFollowersDailyAvg": 178,
+		"tweetsThisMonth": 381,
+		"twitterImpressionsToday": 12639,
+		"followersThisMonth": 6116,
+		"twitterImpressions": 2570113,
+		"twitterProfileVisits": 155812,
+		"twitterMentions": 901,
+		"youtubeDevsReached": 930413,
+		"youtubeHoursSpentWatching": 28121,
+		"guidesReadThisMonth": 16175842,
+		"predict30daysFollowers": 23881,
+		"predict60daysFollowers": 29871
+	},
+	{
+		"date": "2021-10-02T00:00:00.000Z",
+		"twitterFollowers": 16491,
+		"twitterNewFollowersDailyAvg": 189,
+		"tweetsThisMonth": 398,
+		"twitterImpressionsToday": 11638,
+		"followersThisMonth": 6116,
+		"twitterImpressions": 2570113,
+		"twitterProfileVisits": 155812,
+		"twitterMentions": 919,
+		"youtubeDevsReached": 930413,
+		"youtubeHoursSpentWatching": 28121,
+		"guidesReadThisMonth": 16175842,
+		"predict30daysFollowers": 23881,
+		"predict60daysFollowers": 29871
+	},
+	{
+		"date": "2021-10-03T00:00:00.000Z",
+		"twitterFollowers": 16819,
+		"twitterNewFollowersDailyAvg": 171,
+		"tweetsThisMonth": 401,
+		"twitterImpressionsToday": 91831,
+		"followersThisMonth": 6116,
+		"twitterImpressions": 2570113,
+		"twitterProfileVisits": 155812,
+		"twitterMentions": 904,
+		"youtubeDevsReached": 930413,
+		"youtubeHoursSpentWatching": 28121,
+		"guidesReadThisMonth": 16175842,
+		"predict30daysFollowers": 23881,
+		"predict60daysFollowers": 29871
+	},
+	{
+		"date": "2021-10-04T00:00:00.000Z",
+		"twitterFollowers": 17414,
+		"twitterNewFollowersDailyAvg": 199,
+		"tweetsThisMonth": 411,
+		"twitterImpressionsToday": 12413,
+		"followersThisMonth": 6116,
+		"twitterImpressions": 2570113,
+		"twitterProfileVisits": 155812,
+		"twitterMentions": 919,
+		"youtubeDevsReached": 930413,
+		"youtubeHoursSpentWatching": 28121,
+		"guidesReadThisMonth": 16175842,
+		"predict30daysFollowers": 23881,
+		"predict60daysFollowers": 29871
+	}
+]
